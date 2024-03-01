@@ -11,8 +11,9 @@ I am Gerard Shahin, a passionate learner currently immersed in the world of C# p
 Feel free to explore my repositories, ask questions, or connect with me! I'm always up for discussions about coding, technology, and the exciting possibilities that lie ahead.
 
 Best wishes!
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardsh&layout=compact&langs_count=10&exclude_repo=your-excluded-repo1,your-excluded-repo2)](https://github.com/gerardsh/github-readme-stats)
 
-[![Gerard's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardsh)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardsh)](https://github.com/gerardsh/github-readme-stats)
 <!--
 **GerardSh/GerardSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
