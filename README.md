@@ -12,9 +12,9 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 
 Best wishes!
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardsh&layout=compact&langs_count=10&exclude_repo=your-excluded-repo1,your-excluded-repo2&theme=onedark)](https://github.com/gerardsh/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardsh&layout=compact&langs_count=10&exclude_repo=your-excluded-repo1,your-excluded-repo2&theme=tokyonight)](https://github.com/gerardsh/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardsh&theme=radical)](https://github.com/gerardsh/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardsh&theme=tokyonight)](https://github.com/gerardsh/github-readme-stats)
 <!--
 **GerardSh/GerardSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
