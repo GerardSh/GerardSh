@@ -12,7 +12,7 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 
 Best wishes!
 
-[![Gerard's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardshah)](https://github.com/anuraghazra/github-readme-stats)
+[![Gerard's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardsh)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GerardSh/GerardSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
