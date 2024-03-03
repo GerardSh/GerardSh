@@ -1,6 +1,6 @@
 ### Hello and thank you for visiting!
 
-I am Gerard Shahin, a passionate learner currently immersed in the world of C# programming. My journey in C# has been an exciting exploration, and I'm thrilled to share a bit more about myself.
+I am Gerard, a passionate learner currently immersed in the world of C# programming. My journey in C# has been an exciting exploration, and I'm thrilled to share a bit more about myself.
 
 - 💻 **Programming Language:** I'm currently focused on mastering C# and am captivated by its versatility, from desktop applications to web development.
 
