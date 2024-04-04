@@ -1,8 +1,8 @@
 ### Hello and thank you for visiting!
 
-I am Gerard, a passionate learner currently immersed in the world of C# programming. My journey in C# has been an exciting exploration, and I'm thrilled to share a bit more about myself.
+I am Gerard, a passionate learner immersed in the world of C# programming. My journey in C# has been an exciting exploration, and I'm thrilled to share a bit more about myself.
 
-- 💻 **Programming Language:** I'm currently focused on mastering C# and am captivated by its versatility, from desktop applications to web development.
+- 💻 **Programming Language:** I'm currently focused on mastering C# web development.
 
 - 📚 **Continuous Learning:** Beyond C#, I'm an avid learner. Whether it's diving into advanced C# features, exploring design patterns, or staying updated on the latest in software development, I'm committed to continuous improvement.
 
@@ -13,6 +13,14 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardsh&layout=compact&langs_count=10&exclude_repo=your-excluded-repo1,your-excluded-repo2&theme=tokyonight)](https://github.com/gerardsh/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardsh&theme=tokyonight)](https://github.com/gerardsh/github-readme-stats)
+
+# Education - [Software University](https://softuni.bg/curriculum)
+| Course | Grade | Certificate |
+|-----------------|-----------------|-----------------|
+| Programming Basics with C# | 6/6 | [Certificate](https://github.com/GerardSh/SoftwareUniversity/blob/main/99%20Attachments/Programming%20Basics%20-%20January%202024%20-%20Certificate.jpeg) |
+| Programming Fundamentals with C# | 6/6 |  |
+| C# Advanced - In progress |..|..| 
+
 <!--
 **GerardSh/GerardSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
