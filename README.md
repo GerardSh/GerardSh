@@ -15,12 +15,13 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardsh&theme=tokyonight)](https://github.com/gerardsh/github-readme-stats)
 
 # Education - [Software University](https://softuni.bg/curriculum)
-| Course | Grade | Certificate |
-|-----------------|-----------------|-----------------|
-| Programming Basics with C# | 6/6 | [Certificate](https://github.com/GerardSh/SoftwareUniversity/blob/main/99%20Attachments/Programming%20Basics%20-%20January%202024%20-%20Certificate.jpeg) |
-| Programming Fundamentals with C# | 6/6 |  |
-| C# Advanced - In progress |..|..| 
+| Course & Certificate | Grade |
+|-----------------|-----------------|
+| [Programming Basics with C#](https://github.com/GerardSh/SoftwareUniversity/blob/main/99%20Attachments/Programming%20Basics%20-%20January%202024%20-%20Certificate.jpeg)  | 6 / 6 |
+| Programming Fundamentals with C# | 6 / 6 | 
+| C# Advanced - In progress |..|
 
+![](https://komarev.com/ghpvc/?username=GerardSh&color=blueviolet&abbreviated=true&style=flat-square)
 <!--
 **GerardSh/GerardSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
