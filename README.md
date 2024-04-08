@@ -17,7 +17,7 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 # Education - [Software University](https://softuni.bg/curriculum)
 | Course & Certificate | Grade |
 |-----------------|-----------------|
-| [Programming Basics with C#](https://github.com/GerardSh/SoftwareUniversity/blob/main/99%20Attachments/Programming%20Basics%20-%20January%202024%20-%20Certificate.jpeg)  | 6 / 6 |
+| [Programming Basics with C#](https://softuni.bg/certificates/details/204273/b246b2ae)  | 6 / 6 |
 | Programming Fundamentals with C# | 6 / 6 | 
 | C# Advanced - In progress |..|
 
