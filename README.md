@@ -4,7 +4,7 @@ I am Gerard, currently on a long and exciting journey to become a programmer.
 
 My learning focus is on C#, which turned out to be a great language, especially for beginners.
 
-My goal is to gather sufficient knowledge and start contributing and working on real projects. 
+The goal i have is to gather sufficient knowledge and start contributing and working on real projects. 
 
 Feel free to explore my repositories, ask questions, or connect with me! I'm always up for discussions about coding, technology, and the exciting possibilities that lie ahead.
 
