@@ -1,12 +1,10 @@
 ### Hello and thank you for visiting!
 
-I am Gerard, a passionate learner immersed in the world of C# programming. My journey in C# has been an exciting exploration, and I'm thrilled to share a bit more about myself.
+I am Gerard, currently on a long and exciting journey to become a programmer. 
 
-- 💻 **Programming Language:** I'm currently focused on mastering C# web development.
+My learning focus is on C#, which turned out to be a great language, especially for beginners.
 
-- 📚 **Continuous Learning:** Beyond C#, I'm an avid learner. Whether it's diving into advanced C# features, exploring design patterns, or staying updated on the latest in software development, I'm committed to continuous improvement.
-
-- 🌱 **Future Goals:** As I progress on this coding journey, my future goals include contributing to open-source projects, honing my algorithmic skills through coding challenges, and mastering the art of clean and efficient code.
+My goal is to gather sufficient knowledge and start contributing and working on real projects. 
 
 Feel free to explore my repositories, ask questions, or connect with me! I'm always up for discussions about coding, technology, and the exciting possibilities that lie ahead.
 
