@@ -13,11 +13,12 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardsh&theme=tokyonight)](https://github.com/gerardsh/github-readme-stats)
 
 # Education - [Software University](https://softuni.bg/curriculum)
-| Course & Certificate | Grade |
-|-----------------|-----------------|
+| **Course & Certificate** | **Grade** |
+|:-----------------:|:-----------------:|
+|**C#**
 | [Programming Basics with C#](https://softuni.bg/certificates/details/204273/b246b2ae)  | 6 / 6 |
 | Programming Fundamentals with C# | 6 / 6 | 
-| C# Advanced - In progress |..|
+| C# Advanced |In progress|    
 
 ![](https://komarev.com/ghpvc/?username=GerardSh&color=blueviolet&abbreviated=true&style=flat-square)
 <!--
