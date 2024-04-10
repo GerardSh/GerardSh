@@ -16,9 +16,9 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 | **Certificate** | **Grade** |
 |:-----------------:|:-----------------:|
 |**C#**
-| [Programming Basics with C#](https://softuni.bg/certificates/details/204273/b246b2ae)  | 6 / 6 |
-| [Programming Fundamentals with C#](https://softuni.bg/certificates/details/211876/bbbc78e8) | 6 / 6 | 
-| C# Advanced |In progress|    
+| [Basics](https://softuni.bg/certificates/details/204273/b246b2ae)  | 6 / 6 |
+| [Fundamentals](https://softuni.bg/certificates/details/211876/bbbc78e8) | 6 / 6 | 
+| Advanced |In progress|    
 
 ![](https://komarev.com/ghpvc/?username=GerardSh&color=blueviolet&abbreviated=true&style=flat-square)
 <!--
