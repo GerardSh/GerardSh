@@ -17,8 +17,9 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 |:-----------------:|:-----------------:|
 |**C#**
 | [Basics](https://softuni.bg/certificates/details/204273/b246b2ae)  | 6 / 6 |
-| [Fundamentals](https://softuni.bg/certificates/details/211876/bbbc78e8) | 6 / 6 | 
-| Advanced |In progress|    
+| [Fundamentals](https://softuni.bg/certificates/details/211876/bbbc78e8) | 6 / 6 |
+| Advanced |6 / 6 | 
+| OOP |In progress| 
 
 ![](https://komarev.com/ghpvc/?username=GerardSh&color=blueviolet&abbreviated=true&style=flat-square)
 <!--
