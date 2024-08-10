@@ -20,7 +20,7 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 | [Fundamentals](https://softuni.bg/certificates/details/211876/bbbc78e8) | 6 / 6 |
 |**C# Advanced**
 | [Advanced](https://softuni.bg/certificates/details/217447/aa453284) |6 / 6 | 
-| [OOP](https://softuni.bg/certificates/details/217447/aa453284) |6 / 6 | 
+| [OOP](https://softuni.bg/certificates/details/222714/bfd6d6f0) |6 / 6 | 
 |**JS Front-End**
 | HTML & CSS |In progress| 
 
