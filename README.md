@@ -23,7 +23,9 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 | [OOP](https://softuni.bg/certificates/details/222714/bfd6d6f0) | 6 / 6 |
 |**JS Front-End**
 | [HTML & CSS](https://softuni.bg/certificates/details/228507/782bd2f6) | 6 / 6 |
-| JS Front-End |In progress|
+| [JS Front-End](https://softuni.bg/certificates/details/232278/143b03ca) | 6 / 6 |
+|**C# DB**
+| MS SQL |In progress|
 
 ![](https://komarev.com/ghpvc/?username=GerardSh&color=blueviolet&abbreviated=true&style=flat-square)
 <!--
