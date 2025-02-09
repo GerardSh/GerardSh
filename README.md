@@ -25,7 +25,8 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 | [HTML & CSS](https://softuni.bg/certificates/details/228507/782bd2f6) | 6 / 6 |
 | [JS Front-End](https://softuni.bg/certificates/details/232278/143b03ca) | 6 / 6 |
 |**C# DB**
-| MS SQL |In progress|
+| [MS SQL](https://softuni.bg/certificates/details/235776/fe571889) | 6 / 6 |
+| Entity Framework Core |In progress|
 
 ![](https://komarev.com/ghpvc/?username=GerardSh&color=blueviolet&abbreviated=true&style=flat-square)
 <!--
