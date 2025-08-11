@@ -29,7 +29,7 @@ Feel free to explore my repositories, ask questions, or connect with me! I'm alw
 | [Entity Framework Core](https://softuni.bg/certificates/details/239809/4460d67f) | 6 / 6 |
 |**C# Web**
 | [ASP.NET Fundamentals](https://softuni.bg/certificates/details/245676/4a40c719) | 6 / 6 |
-| ASP.NET Advanced | 6 / 6 |
+| [ASP.NET Advanced](https://softuni.bg/certificates/details/248456/0e4a54da) | 6 / 6 |
 
 ![](https://komarev.com/ghpvc/?username=GerardSh&color=blueviolet&abbreviated=true&style=flat-square)
 <!--
